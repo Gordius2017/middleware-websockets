@@ -1,0 +1,7 @@
+/Users/delrojo/Documents/Hackathons/HackSociety 2017/middleware-server/src/main/java/it/hacksociety/middleware/hsmiddleware/model/Image.java
+/Users/delrojo/Documents/Hackathons/HackSociety 2017/middleware-server/src/main/java/it/hacksociety/middleware/hsmiddleware/repository/ImageRepository.java
+/Users/delrojo/Documents/Hackathons/HackSociety 2017/middleware-server/src/main/java/it/hacksociety/middleware/hsmiddleware/resource/SseEmiterLoginResource.java
+/Users/delrojo/Documents/Hackathons/HackSociety 2017/middleware-server/src/main/java/it/hacksociety/middleware/hsmiddleware/domain/Image64.java
+/Users/delrojo/Documents/Hackathons/HackSociety 2017/middleware-server/src/main/java/it/hacksociety/middleware/hsmiddleware/service/ImageCaptureService.java
+/Users/delrojo/Documents/Hackathons/HackSociety 2017/middleware-server/src/main/java/it/hacksociety/middleware/hsmiddleware/HsmiddlewareApplication.java
+/Users/delrojo/Documents/Hackathons/HackSociety 2017/middleware-server/src/main/java/it/hacksociety/middleware/hsmiddleware/resource/CapturePhotoStreamResource.java

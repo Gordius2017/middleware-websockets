@@ -1,0 +1,7 @@
+it/hacksociety/middleware/hsmiddleware/resource/CapturePhotoStreamResource.class
+it/hacksociety/middleware/hsmiddleware/model/Image.class
+it/hacksociety/middleware/hsmiddleware/domain/Image64.class
+it/hacksociety/middleware/hsmiddleware/HsmiddlewareApplication.class
+it/hacksociety/middleware/hsmiddleware/repository/ImageRepository.class
+it/hacksociety/middleware/hsmiddleware/service/ImageCaptureService.class
+it/hacksociety/middleware/hsmiddleware/resource/SseEmiterLoginResource.class
